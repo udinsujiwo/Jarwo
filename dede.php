@@ -18,7 +18,7 @@ Isikan Nama : <input type="text" name="nama">
 
 Isikan No Telp
 
-: <input type="text" name="notelp"> Isikan Alamat
+: <input type="text" name="notelp"> Jelek luh
 
 : <textarea name="alamat" rows="5" cols="40"></textarea> <input type="submit" value="TAMPIL"><input type="reset" value="BATAL">
 
